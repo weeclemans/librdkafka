@@ -1,9 +1,6 @@
 librdkafka (1.0.1-1ubuntu1) unstable; urgency=medium
 
-  * Fix consumer stall when broker connection goes down
-  * Fix AdminAPI memory leak when broker does not support request
-  * Update/fix protocol error response codes
-  * Treat ECONNRESET as standard Disconnects
+  * New upstream release.
 
  -- Vladimir Laskov <samflanker@gmail.com>  Wed, 29 May 2019 12:15:20 +0300
 
